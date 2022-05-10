@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8518143c-81b3-404a-b4cd-f475d8f54e8a" name="Changes" comment="Задание">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class4_1/stats/StatsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class4_1/stats/StatsServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28wBNX352yLALWgCy68SR3Woy6K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.StatsServiceTest">
+    <configuration name="StatsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson4_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class4_1.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class4_1.stats" />
+      <option name="MAIN_CLASS_NAME" value="class4_1.stats.StatsServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldCalculateAverageMonthSumOfSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson4_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class4_1.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class4_1.stats" />
+      <option name="MAIN_CLASS_NAME" value="class4_1.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateAverageMonthSumOfSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldCalculateMinSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson4_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class4_1.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class4_1.stats" />
+      <option name="MAIN_CLASS_NAME" value="class4_1.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateMinSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldCalculateMonthNumberWithSalesOverAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson4_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class4_1.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class4_1.stats" />
+      <option name="MAIN_CLASS_NAME" value="class4_1.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateMonthNumberWithSalesOverAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldCalculateMonthNumberWithSalesUnderAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson4_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class4_1.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class4_1.stats" />
+      <option name="MAIN_CLASS_NAME" value="class4_1.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateMonthNumberWithSalesUnderAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatsServiceTest" />
+        <item itemvalue="JUnit.StatsServiceTest.shouldCalculateMonthNumberWithSalesUnderAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.shouldCalculateMonthNumberWithSalesOverAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.shouldCalculateMinSales" />
+        <item itemvalue="JUnit.StatsServiceTest.shouldCalculateAverageMonthSumOfSales" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8518143c-81b3-404a-b4cd-f475d8f54e8a" name="Changes" comment="" />
+      <created>1652117730616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652117730616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание" />
+  </component>
+</project>
